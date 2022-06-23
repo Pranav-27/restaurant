@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922818280973",
+    "project_id": "restaurant-9acbd",
+    "storage_bucket": "restaurant-9acbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922818280973:android:4ee03966d10b4e87721f44",
+        "android_client_info": {
+          "package_name": "com.pranav.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922818280973-9mkbtlpcuvffimg2u1qnm10eg9i1hvp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7zVK0sBH_jWlxu59e6I_EOPyqQJfROHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922818280973-9mkbtlpcuvffimg2u1qnm10eg9i1hvp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
